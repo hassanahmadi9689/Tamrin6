@@ -1,0 +1,14 @@
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\bin\Debug\net7.0\ConsoleApp82.exe
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\bin\Debug\net7.0\ConsoleApp82.deps.json
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\bin\Debug\net7.0\ConsoleApp82.runtimeconfig.json
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\bin\Debug\net7.0\ConsoleApp82.dll
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\bin\Debug\net7.0\ConsoleApp82.pdb
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\obj\Debug\net7.0\ConsoleApp82.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\obj\Debug\net7.0\ConsoleApp82.AssemblyInfoInputs.cache
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\obj\Debug\net7.0\ConsoleApp82.AssemblyInfo.cs
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\obj\Debug\net7.0\ConsoleApp82.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\obj\Debug\net7.0\ConsoleApp82.dll
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\obj\Debug\net7.0\refint\ConsoleApp82.dll
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\obj\Debug\net7.0\ConsoleApp82.pdb
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\obj\Debug\net7.0\ConsoleApp82.genruntimeconfig.cache
+C:\Users\Hassan\RiderProjects\ConsoleApp82\ConsoleApp82\obj\Debug\net7.0\ref\ConsoleApp82.dll
