@@ -22,6 +22,11 @@ public class Management : IBook
             rentalbook.SetPrice(price);
             _books.Add(rentalbook);
         }
+
+        if (type >2 || type<1)
+        {
+            throw new Exception("wrong type");
+        }
     }
 
     public void RemoveBook(string name)
